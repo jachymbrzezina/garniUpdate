@@ -74,7 +74,7 @@
         $parameters[] = "Směr větru [°]";
         $parameters[] = "Směr větru";
         $parameters[] = "Denní srážky [".$rainUnits."]";
-        $parameters[] = "Solární radiace [W/m2]";
+        $parameters[] = "Solární radiace [KLux]";
         $parameters[] = "UV";
         $parameters[] = "Pocitová teplota [°".trim(strtoupper($temperatureUnits))."]";
         $parameters[] = "Vnitřní teplota [°".trim(strtoupper($temperatureUnits))."]";
@@ -93,7 +93,7 @@
         $parameters[] = "Wind direction [°]";
         $parameters[] = "Wind direction";
         $parameters[] = "Daily rain [".$rainUnits."]";
-        $parameters[] = "Solar radiation [W/m2]";
+        $parameters[] = "Solar radiation [KLux]";
         $parameters[] = "UV";
         $parameters[] = "Feels like [°".trim(strtoupper($temperatureUnits))."]";
         $parameters[] = "Indoor temperature [°".trim(strtoupper($temperatureUnits))."]";
