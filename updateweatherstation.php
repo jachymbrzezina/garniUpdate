@@ -36,7 +36,7 @@
     // adjust parameters
     // korekce parametrů
     $pressureCorrection = "0"; // pressure correction in hPa / korekce tlaku v hPa
-    $windDirCorrection = "-45"; // wind direction correction / korekce směru větru
+    $windDirCorrection = "0"; // wind direction correction / korekce směru větru
 
     /* ----------------------- END SETUP / KONEC NASTAVENÍ --------------------------------- */
 
